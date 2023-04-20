@@ -1,111 +1,29 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### Hi there 👋, My name is Ruhul
+#### I am a fullstack developer
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-### :octocat: About me:
+Skills: VUE JS / JS / HTML / CSS / DJANGO / FLASK / PYTHON
 
-
-
-Hello there,
-It's Md Fajle Rabbi Islam.<br/>
-I am <strong>Data Sciene Enthusiast</strong>.<br/>
-I'm passionate about programming.
-
-
-<!--
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
--->
+- 🔭 I’m currently working on Matrimony Assist 
+- 🌱 I’m currently learning PHP - LARAVEL 
+- 📫 How to reach me: ruhul.amin.tnt@gmail.com 
+- 😄 Pronouns: He 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ru1n00)  
 
-- ⚡ I love to learn new things everyday.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Data Science.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I 💖 to code & read novel.
-- 🤝 Feel free to connect with me anytime.
-- 🎢 Profile Visitors Count:  
-     ![](https://visitor-badge.glitch.me/badge?page_id=FjRabbi.FjRabbi)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<br/>
-<!--
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/FjRabbi/count.svg" alt ="Loading">
--->
-<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Ru1n00)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-### 🛠️ Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ru1n00)](https://github.com/anuraghazra/github-readme-stats)
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PySpark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat-square&logo=Apache%20Spark)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=MySql)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Ru1n00&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Ru1n00)  
 
----
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Ru1n00)  
 
-### 🤝 Connect with me: 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Ru1n00)  
 
-<a href="https://github.com/FjRabbi">
-  <img align="left" alt="FjRabbi's Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://www.facebook.com/md.fajle.rabbi.islam.18/">
-  <img align="left" alt="FjRabbi's Facebook" width="26px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/TeslaWAGMI">
-  <img align="left" alt="FjRabbi's Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
-  <img align="left" alt="FjRabbi's Linkdein" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
----
-
-### ✔ Github Activity:
-
-<a href="https://github.com/Ru1n00">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru1n00&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
- </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ru1n00&count_private=true)](https://github.com/Ru1n00/github-readme-stats)
-
-<a href="https://github.com/Ru1n00">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ru1n00&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="Ru1n00's github stats"/>
-</a>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ru1n00&theme=highcontrast" alt="Ru1n00's Streak Stats"/></p>
-
-
-
-
-<br/>
-<br/>
-<br/>
-
----
-### 🏆 GitHub Profile Trophy:
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ru1n00&theme=dark_lover&column=9" alt="Ru1n00's Trophy" />
-</p>
-<br/>
-
-  
-</div>
-
----
-
-Last Edited on: 22/03/2023
+![Profile views](https://gpvc.arturio.dev/https://github.com/Ru1n00)  
