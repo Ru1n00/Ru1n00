@@ -76,17 +76,17 @@ I'm passionate about programming.
 
 ### ✔ Github Activity:
 
-<a href="https://github.com/FjRabbi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FjRabbi&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
+<a href="https://github.com/Ru1n00">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru1n00&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
  </a>
 
 
-<a href="https://github.com/FjRabbi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FjRabbi&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="FjRabbi's github stats"/>
+<a href="https://github.com/Ru1n00">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ru1n00&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="Ru1n00's github stats"/>
 </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FjRabbi&theme=highcontrast" alt="FjRabbi's Streak Stats"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ru1n00&theme=highcontrast" alt="Ru1n00's Streak Stats"/></p>
 
 
 
@@ -98,7 +98,7 @@ I'm passionate about programming.
 ---
 ### 🏆 GitHub Profile Trophy:
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FjRabbi&theme=dark_lover&column=9" alt="FjRabbi's Trophy" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ru1n00&theme=dark_lover&column=9" alt="Ru1n00's Trophy" />
 </p>
 <br/>
 
