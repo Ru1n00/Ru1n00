@@ -80,6 +80,7 @@ I'm passionate about programming.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ru1n00&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
  </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Ru1n00">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ru1n00&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="Ru1n00's github stats"/>
