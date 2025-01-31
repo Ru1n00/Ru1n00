@@ -37,9 +37,9 @@ Skills: VUE JS / JS / HTML / CSS / DJANGO / FLASK / PYTHON
 
 - 🔭 I’m currently working as a Fullstack Developer on [MatrimonyAssist](https://test.nikahhelp.com/)
 
-- 🌱 I’m currently learning **Laravel**
+<!--- 🌱 I’m currently learning **Laravel** -->
 
-- 💬 Ask me about **Vue, Django**
+- 💬 Ask me about **Vue, Laravel, Django**
 
 - 📫 How to reach me **ruhul.amin.tnt@gmail.com**
 
